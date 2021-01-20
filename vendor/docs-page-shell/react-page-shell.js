@@ -116,12 +116,12 @@ function BrowserCompatibilityWarning() {
   }))), React.createElement("div", {
     className: "limiter shell-block shell-relative"
   }, React.createElement("div", {
-    className: "compatibility-warning-copy shell-mb6 shell-mb0-mm shell-align-center shell-align-l-mm shell-txt-bold"
+    className: "compatibility-warning-copy shell-mb6 shell-align-center shell-txt-bold"
   }, "You are using an outdated browser and will encounter some problems with our website. Please consider upgrading."), React.createElement("div", {
     className: "compatibility-warning-action shell-align-center"
   }, React.createElement("a", {
     className: "shell-btn shell-btn--white shell-color-pink shell-txt-nowrap",
-    href: "http://outdatedbrowser.com"
+    href: "https://bestvpn.org/outdatedbrowser/en"
   }, "Upgrade Now")))));
 }
 
